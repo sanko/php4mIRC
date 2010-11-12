@@ -1,0 +1,20 @@
+Version 0.5330 | Wed, 10 Nov 2010
+
+    API Changes/Compatibility Information:
+     * Initial version
+
+    Resolved Issues/Bug Fixes:
+     * Initial version
+
+    Internal/Behavioral Changes:
+     * Initial version
+
+    Documentation/Sample Code/Test Suite:
+     * Initial version
+
+    Notes:
+     * Initial version
+
+_ -.-. .... .- -. --. . ... _________________________________________
+For more information, see the commit log:
+    http://github.com/sanko/php4mIRC/commits/master
