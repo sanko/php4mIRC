@@ -5,11 +5,9 @@ AUTHOR & WEBSITE
     The current version is 0.5330 (for PHP 5.3.3)
 
     The current and previous versions may be found in
-    http://sankorobinson.com/php4mirc/release/
+    https://github.com/sanko/php4mIRC/downloads
 
     Please watch http://github.com/sanko/php4mirc/ for updates.
-
-    The official project page is http://sankorobinson.com/php4mirc/
 
 DESCRIPTION
 
